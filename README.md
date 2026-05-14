@@ -1,5 +1,5 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to LearnCS8 Resume Website!
 
 This is an template resume website built using Bootstrap. 
 
